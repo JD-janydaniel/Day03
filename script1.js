@@ -7,7 +7,7 @@ var result=true;
 
 if(Object.keys(obj1).length==Object.keys(obj2).length){
     for(i in obj1) { 
-        if(i,obj1[i] == i,obj2[i]) {
+        if(obj1[i] == obj2[i]) {
             continue;
         }
         else {

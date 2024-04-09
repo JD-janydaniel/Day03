@@ -14,3 +14,7 @@
   <li>And the second, third question were solved in the script.js and by using the index.html file i have displayed the output in the console</li>
   <li>I have alsp attached the output screen short in the output file</li>
 </ol>
+<h3>Link</h3>
+<ol>
+  <li>https://restcountries.com/v3.1/all</li>
+</ol>
